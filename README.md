@@ -35,4 +35,4 @@
 
 由于我的技术有限导致这个 EFI 配置文件十分粗糙，还请大家谅解。
 
-最后也欢迎大家关注我的 [Telegram 频道](https://t.me/keiko_gugu)# ASRock-Z370-QTJ2-Hackintosh
+最后也欢迎大家关注我的 [Telegram 频道](https://t.me/keiko_gugu)
