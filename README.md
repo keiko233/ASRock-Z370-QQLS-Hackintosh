@@ -9,7 +9,7 @@
 | 规格     | 详细信息                                     |
 | -------- | ---------------------------------------- |
 | 主板 | ASRock Z370M Pro4 |
-| CPU | Inter Core 0000 2.4GHz 6C 12T (QTJ2) |
+| CPU | Inter Core ES 2.4GHz (QTJ2) |
 | iGPU | Inter UHD 630 |
 | GPU | Radeon RX 590 |
 
@@ -30,6 +30,10 @@
 ## 关于 CPU 型号
 
 由于我已经在 `PlatformInfo` 里写入了自定义 CPU 型号，所以在 MacOS 设置里可以看到 `2.4 GHz 六核Intel Core i9` 这样的一个 CPU 型号，如果不喜欢可以自行修改。
+
+## 关于机型及序列号
+
+虽然本EFI已经内置了一个随机的序列号，但是我论如何我都建议自己去修改一个序列号，避免引起不必要的冲突。
 
 ### 结尾
 
