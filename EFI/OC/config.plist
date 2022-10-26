@@ -118,6 +118,24 @@
 				<key>layout-id</key>
 				<data>AQAAAA==</data>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<dict>
+				<key>AAPL,snb-platform-id</key>
+				<data>AwDFmw==</data>
+				<key>device-id</key>
+				<data>mz4AAA==</data>
+				<key>framebuffer-fbmem</key>
+				<data>AACQAA==</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,1,0/0,0</string>
+				<key>device_type</key>
+				<string>VGA compatible controller</string>
+				<key>model</key>
+				<string>Radeon RX 590</string>
+			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict/>
