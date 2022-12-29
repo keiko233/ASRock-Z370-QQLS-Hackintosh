@@ -1,4 +1,4 @@
-# ASRock-Z370-QTJ2-Hackintosh
+# ASRock-Z370-QQLS-Hackintosh
 
 这是一个我自用的黑苹果 OpenCore EFI 配置，目前已支持 macOS 13.0(Ventura)
 
@@ -9,7 +9,7 @@
 | 规格     | 详细信息                                     |
 | -------- | ---------------------------------------- |
 | 主板 | ASRock Z370M Pro4 |
-| CPU | Inter Core ES 2.4GHz (QTJ2) |
+| CPU | Inter Core ES 2.1GHz (QQLS) |
 | iGPU | Inter UHD 630 |
 | GPU | Radeon RX 590 |
 
@@ -27,9 +27,9 @@
 
 该EFI没有序列号，所以你需要自行生产一个序列号并写入后方可使用。
 
-## 一些小问题
+## 备注
 
-EFI 内置的 itlwm Kext 目前处于预览版本，不太稳定。且从 macOS 12 升级的用户需要在安装前先 disabled 后使用，全新安装无需操作
+实测支持 QQLS QTJ2 等 ES CPU。
 
 ### 结尾
 
